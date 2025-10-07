@@ -4,7 +4,7 @@ Homework is for assignments and Projects is for Projects
 ## Environment Setup:
 
 ```
-requirnemnts.yml
+conda env create --file=./environment.yml
 ```  
 
 ```
