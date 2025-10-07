@@ -10,4 +10,7 @@ dependencies:
   - pandas=2.2.0
   - matplotlib=3.9.1
   - jupyter
+  - pip
+  - pip
+    - ipykernel
 
